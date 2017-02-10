@@ -1,8 +1,11 @@
+package Test;
 
 
 import java.util.Scanner;
 
 import javax.swing.plaf.synth.SynthSpinnerUI;
+
+import CalcUtils.StatCalc;
 
 public class Test {
 
